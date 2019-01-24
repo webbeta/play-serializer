@@ -1,5 +1,8 @@
 # webBeta Play Serializer
 
+[![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Maven](https://img.shields.io/maven-central/v/es.webbeta/play-serializer.svg)](http://mvnrepository.com/artifact/es.webbeta/play-serializer)
+
 ## Install
 
 ```
