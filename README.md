@@ -1,5 +1,6 @@
 # webBeta Play Serializer
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/63d370e932b0424dbee4185579e85118)](https://app.codacy.com/app/mowcixo/play-serializer?utm_source=github.com&utm_medium=referral&utm_content=webbeta/play-serializer&utm_campaign=Badge_Grade_Dashboard)
 [![GitHub license](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Maven](https://img.shields.io/maven-central/v/es.webbeta/play-serializer_2.11.svg)](http://mvnrepository.com/artifact/es.webbeta/play-serializer)
 
